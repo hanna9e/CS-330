@@ -12,7 +12,7 @@ This project taught me to design by decomposition. I broke my reference image in
 
 ### How do I approach developing programs?
 
-I built the scene incrementally inside the `SceneManager` class, separating textures, materials, lighting, and rendering so adding an object took only a few lines. Iteration drove everything: adjust a value, run, look, repeat. Lighting took the most rounds. [Add one specific fix here.] By the end, I could predict results before running them because I understood transformation order and the coordinate system, and I committed working versions before risky changes.
+I built the scene incrementally inside the `SceneManager` class, separating textures, materials, lighting, and rendering so adding an object took only a few lines. Iteration drove everything: adjust a value, run, look, repeat. Lighting took the most rounds. By the end, I could predict results before running them because I understood transformation order and the coordinate system, and I committed working versions before risky changes.
 
 ### How can computer science help me in reaching my goals?
 
